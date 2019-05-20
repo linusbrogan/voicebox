@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voicebox/static/css/main.fd5fc7c1.chunk.css",
+    "main.js": "/voicebox/static/js/main.53c49775.chunk.js",
+    "main.js.map": "/voicebox/static/js/main.53c49775.chunk.js.map",
+    "runtime~main.js": "/voicebox/static/js/runtime~main.260ed36c.js",
+    "runtime~main.js.map": "/voicebox/static/js/runtime~main.260ed36c.js.map",
+    "static/js/2.b41502e9.chunk.js": "/voicebox/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/voicebox/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/voicebox/index.html",
+    "precache-manifest.85a017394cc2425b95c349f7c37bbe9b.js": "/voicebox/precache-manifest.85a017394cc2425b95c349f7c37bbe9b.js",
+    "service-worker.js": "/voicebox/service-worker.js",
+    "static/css/main.fd5fc7c1.chunk.css.map": "/voicebox/static/css/main.fd5fc7c1.chunk.css.map"
+  }
+}
